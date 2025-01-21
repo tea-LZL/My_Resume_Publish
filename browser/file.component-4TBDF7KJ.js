@@ -1,0 +1,1 @@
+import{Ca as o,Da as i,Ja as p,ta as n}from"./chunk-6HDL2KK4.js";var m=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-file"]],decls:2,vars:0,template:function(t,a){t&1&&(o(0,"p"),p(1,"file works!"),i())},encapsulation:2})}}return e})();export{m as FileComponent};
