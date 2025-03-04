@@ -1,0 +1,1 @@
+import{Ja as i,Ka as o,Qa as m,za as n}from"./chunk-DN62IHCW.js";var l=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-timeline"]],decls:2,vars:0,template:function(t,r){t&1&&(i(0,"p"),m(1,"timeline works!"),o())},encapsulation:2})}}return e})();export{l as TimelineComponent};
