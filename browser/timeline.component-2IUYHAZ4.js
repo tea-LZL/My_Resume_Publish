@@ -1,0 +1,1 @@
+import{Na as i,ib as o,jb as m,ub as p}from"./chunk-52XVVM45.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-timeline"]],decls:2,vars:0,template:function(n,a){n&1&&(o(0,"p"),p(1,"timeline works!"),m())},encapsulation:2});let t=e;return t})();export{c as TimelineComponent};
