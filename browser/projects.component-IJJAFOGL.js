@@ -1,0 +1,1 @@
+import{Pa as n,kb as i,lb as p,xb as r}from"./chunk-YZYY3OPE.js";var m=(()=>{let t=class t{};t.\u0275fac=function(o){return new(o||t)},t.\u0275cmp=n({type:t,selectors:[["app-projects"]],decls:2,vars:0,template:function(o,c){o&1&&(i(0,"p"),r(1,"projects works!"),p())},encapsulation:2});let e=t;return e})();export{m as ProjectsComponent};
