@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758208889186,
+  "timestamp": 1760111613149,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,19 +11,20 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-CXLYSFYH.js",
-        "/chunk-YZYY3OPE.js",
+        "/chunk-HTZVC3PT.js",
+        "/chunk-JBLYIDQS.js",
+        "/chunk-UE4HOR2J.js",
         "/favicon.ico",
-        "/file.component-L3L5FGT6.js",
-        "/home.component-OYURNELN.js",
+        "/file.component-MKWITKBK.js",
+        "/home.component-3WMPEROV.js",
         "/index.html",
-        "/main-5S4432GX.js",
+        "/main-4KGP5TGR.js",
         "/manifest.webmanifest",
         "/polyfills-WQGVKHK3.js",
-        "/projects.component-IJJAFOGL.js",
+        "/projects.component-Q66XZNY7.js",
         "/scripts-TTWY4XDY.js",
-        "/styles-FGOOUQD3.css",
-        "/timeline.component-UYLUSQUD.js"
+        "/styles-ZVIN6KLO.css",
+        "/timeline.component-ZIDIQ3PS.js"
       ],
       "patterns": []
     },
@@ -40,6 +41,7 @@
         "/assets/font/fonts/bootstrap-icons.woff2",
         "/assets/placeholder.png",
         "/assets/starebean.png",
+        "/assets/weathering_with_go_api_cover_image.png",
         "/icons/icon-128x128.png",
         "/icons/icon-144x144.png",
         "/icons/icon-152x152.png",
@@ -63,11 +65,13 @@
     "/assets/font/fonts/bootstrap-icons.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
     "/assets/placeholder.png": "4ba7538b35a89138af0ddbcd7905541664d6fff8",
     "/assets/starebean.png": "6aba0388e550358b86021436598fc1cafc25de9c",
-    "/chunk-CXLYSFYH.js": "925bc6f0476456b8fbf8d92de9300d2d7029bb36",
-    "/chunk-YZYY3OPE.js": "6c71f9c24b8ca1740dc8010022e5f6074c6edea8",
+    "/assets/weathering_with_go_api_cover_image.png": "4e8c62e9298c6efe0b1f78c2f14f650338a3697e",
+    "/chunk-HTZVC3PT.js": "bd99f2dc4159d1ae54c46f06f139bc9a7c285046",
+    "/chunk-JBLYIDQS.js": "c9f0d7e482b9b6c3472ec5cddb0d221b017be5aa",
+    "/chunk-UE4HOR2J.js": "efe661a8e080aa2c7f3c8adfe2519a73cd0628a8",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/file.component-L3L5FGT6.js": "876188ad799ebeb7ab840dc85bf650348e3bab7d",
-    "/home.component-OYURNELN.js": "2c28496ee2aea934883a0ac7f9c2c71071a47e17",
+    "/file.component-MKWITKBK.js": "814dacb8a1a56c77b74a73cbe0c465036d60ef49",
+    "/home.component-3WMPEROV.js": "b732c57177df32e2e8b8829d262c9281f0be9a4c",
     "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
@@ -76,18 +80,18 @@
     "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "b4012527c9708b3335cd98046eae7bfce1ebd845",
-    "/main-5S4432GX.js": "da2ebb7c31a3aecd6fb9a02f1459e713f2030c49",
+    "/index.html": "fe0c50658fd2f2d4c900e7a9f25060bd10aca376",
+    "/main-4KGP5TGR.js": "c48da3e4f8ab612495b054f6b68f31b8c34355c3",
     "/manifest.webmanifest": "5e5a5d57e566b9a43055273a5649f46f005944ef",
     "/media/bootstrap-icons-OCU552PF.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
     "/media/bootstrap-icons-X6UQXWUS.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
     "/polyfills-WQGVKHK3.js": "e6bc1114ffbf3814db799249543bcb184e0eb2d6",
-    "/projects.component-IJJAFOGL.js": "3d79d297d7bc7e71b44e4d938ac229f71847994a",
+    "/projects.component-Q66XZNY7.js": "8db99ae4d6ee7a4bd65abce7ab2a46019b4c5fc9",
     "/screenshots/Mobile.webp": "cd38f1b742d441c557bb63e5178e7397952264d4",
     "/screenshots/Wide.webp": "79e7cb79b47073323d5ed4138efd1d935b01f27f",
     "/scripts-TTWY4XDY.js": "59aa489af6324127a3d773836250da08639d4b26",
-    "/styles-FGOOUQD3.css": "17acc51a3f067c8b109d0bfec1c6dfb003c94988",
-    "/timeline.component-UYLUSQUD.js": "8c91b9fd043ee1170bd8bbd27a6d3857f68d8748"
+    "/styles-ZVIN6KLO.css": "3f0822ab756cde5eadbc7375a1bec442178b5f3e",
+    "/timeline.component-ZIDIQ3PS.js": "cb37afb38df9911c721e76ec1fb252d3a7bb6b57"
   },
   "navigationUrls": [
     {

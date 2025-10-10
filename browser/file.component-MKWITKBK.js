@@ -1,0 +1,1 @@
+import{Bb as r,Sa as o,nb as i,ob as p}from"./chunk-JBLYIDQS.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-file"]],decls:2,vars:0,template:function(n,m){n&1&&(i(0,"p"),r(1,"file works!"),p())},encapsulation:2});let t=e;return t})();export{c as FileComponent};
