@@ -1,0 +1,1 @@
+import{Eb as r,Ta as o,pb as i,qb as p}from"./chunk-TPFRW3YD.js";import"./chunk-FDERIQAA.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-file"]],decls:2,vars:0,template:function(n,m){n&1&&(i(0,"p"),r(1,"file works!"),p())},encapsulation:2});let t=e;return t})();export{c as FileComponent};
