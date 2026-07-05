@@ -1,0 +1,1 @@
+import{Lb as p,Za as n,sb as o,tb as i}from"./chunk-YF3RIS63.js";import"./chunk-EQDQRRRY.js";var l=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-file"]],decls:2,vars:0,template:function(t,r){t&1&&(o(0,"p"),p(1,"file works!"),i())},encapsulation:2})}}return e})();export{l as FileComponent};
