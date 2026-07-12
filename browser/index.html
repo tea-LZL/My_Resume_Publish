@@ -17,6 +17,13 @@
       <span class="loader"></span>
     </div>
     <noscript>Please enable JavaScript to continue using this application.</noscript>
+    <script>
+      // ponytail: fallback if Angular bootstrap stalls
+      setTimeout(function() {
+        var el = document.getElementById('app-loading');
+        if (el) { el.classList.add('fade-out'); setTimeout(function() { el.remove(); }, 500); }
+      }, 3000);
+    </script>
   <link rel="modulepreload" href="chunk-2G3S45BT.js"><link rel="modulepreload" href="chunk-MWVO72KX.js"><link rel="modulepreload" href="chunk-ELVASULO.js"><link rel="modulepreload" href="chunk-6VQT5W34.js"><link rel="modulepreload" href="chunk-LI7Y43MX.js"><link rel="modulepreload" href="chunk-EQDQRRRY.js"><script src="polyfills-SBAL5ZI5.js" type="module"></script><script src="scripts-TTWY4XDY.js" defer></script><script src="main-S4IXBKEX.js" type="module"></script></body>
 
 </html>
